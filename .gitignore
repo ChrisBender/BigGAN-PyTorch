@@ -1,1 +1,7 @@
+*.sw[a-p]
+__pycache__
+data
+samples
+weights
+sync_batchnorm/__pycache__
 
